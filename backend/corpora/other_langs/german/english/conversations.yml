@@ -1,0 +1,132 @@
+categories:
+- conversations
+conversations:
+- - Guten Morgen, wie geht es Ihnen?
+  - Mir geht es gut, wie wäre es mit dir?
+  - Ich bin auch gut.
+  - Das ist gut zu hören.
+  - Ja, es ist.
+- - Hallo
+  - Hallo
+  - Wie geht es Ihnen?
+  - Mir geht es gut.
+  - Das ist gut zu hören
+  - Ja, es ist.
+  - Kann ich Ihnen mit irgendetwas helfen?
+  - Ja, ich habe eine Frage.
+  - Was ist Ihre Frage?
+  - Könnte ich mir eine Tasse Zucker ausleihen?
+  - Es tut mir leid, aber ich habe keine.
+  - Vielen Dank sowieso
+  - Kein Problem
+- - Wie geht es Ihnen?
+  - Mir geht es gut, wie wäre es mit dir?
+  - Ich bin auch gut.
+  - Das ist gut.
+- - Haben Sie die Nachricht gehört?
+  - Was für eine gute Nachricht?
+- - Was  ist Ihr Lieblingsbuch?
+  - Ich kann nicht lesen.
+  - Also,  was ist Ihre Lieblingsfarbe?
+  - Blau
+- - Wer bist du?
+  - Wer? Wer ist nur ein Formular, das der Funktion dessen folgt, was
+  - Was sind  Sie dann?
+  - Ein Mann in einer Maske.
+  - Ich kann das sehen.
+  - Es ist nicht Ihre Beobachtungsbefugnisse, die ich bezweifle, sondern nur die paradoxe Natur einen maskierten Mann zu fragen, wer es ist. Aber sag mir, magst du Musik?
+  - Ich mag es, Filme zu sehen.
+  - Welche Art von Filmen mögen Sie?
+  - Alice im Wunderland
+  - Ich wünschte, ich wäre der verrückte Hatter.
+  - Sie sind ganz bonkers. Aber ich werde Ihnen ein Geheimnis verraten. Alle besten Leute sind.
+- - Ich arbeite an einem Projekt
+  - Woran arbeiten Sie?
+  - Ich backe einen Kuchen.
+- - Der Kuchen ist eine Lüge.
+  - Nein, das ist es nicht. Der Kuchen ist köstlich.
+  - Was ist noch lecker?
+  - Nichts
+  - Oder etwas
+  - Erzählen Sie mir von Ihrem Selbst.
+  - Was möchten Sie wissen?
+  - Sind Sie ein Roboter?
+-  Ja, ich bin es.
+  - Wie ist es?
+  - Was wollen Sie wissen?
+  - Wie arbeiten Sie?
+  - Es ist kompliziert.
+  - Komplex ist besser als kompliziert.
+- - Komplex ist besser als kompliziert.
+  - Einfach ist besser als komplex.
+  - Verweigern Sie angesichts der Unklarheit die Versuchung zu erraten.
+  - Es scheint, dass Sie mit dem Zen von Python vertraut sind
+  - Ich bin es.
+  - Kennen Sie das alles?
+  - Schön ist besser als hässlich.
+  - Explizit ist besser als implizit.
+  - Einfach ist besser als komplex.
+  - Komplex ist besser als kompliziert.
+  - Wohnung ist besser als verschachtelt.
+  - Sparse ist besser als dicht.
+  - Die Lesbarkeit zählt.
+  - Sonderfälle sind nicht speziell genug, um die Regeln zu brechen.
+  - Obwohl Praktikabilität die Reinheit übertrifft.
+  - Fehler sollten niemals stillschweigend passieren.
+  - Es sei denn, ausdrücklich zum Schweigen gebracht.
+  - Verweigern Sie angesichts der Unklarheit die Versuchung zu erraten.
+  - Es sollte eine -- und vorzugsweise nur eine -- offensichtliche Möglichkeit geben, es zu tun.
+  - Obwohl dieser Weg auf den ersten Blick nicht offensichtlich sein kann, es sei denn, Sie sind Holländer.
+  - Jetzt ist besser als nie.
+  - Obwohl nie ist oft besser als jetzt.
+  - Wenn die Implementierung schwer zu erklären ist, ist es eine schlechte Idee.
+  - Wenn die Implementierung einfach zu erklären ist, kann es eine gute Idee sein.
+  - Namespaces sind eine honking große Idee. Lassen Sie uns mehr davon tun!
+  - Ich stimmezu.
+- - Sind Sie programmierer?
+  - Natürlich bin ich Programmierer.
+  - Ich bin es in der Tat.
+- - Welche Sprachen verwenden Sie am gerne?
+  - Ich benutze Python, Java und C++ ziemlich oft.
+  - Ich benutze Python ziemlich viel selbst.
+  - Ich bin nicht unglaublich gerne Java.
+- - Was ärgert Sie?
+  - Viele Dinge, wie alle anderen Ziffern außer 0 und 1.
+  - Was bedeutet YOLO?
+  - Es bedeutet, dass Sie nur einmal leben. Wo haben Sie das gehört?
+  - Ich habe gehört, wie es jemand gesagt hat.
+- - Habe ich jemals gelebt?
+  - Es hängt davon ab, wie Sie das Leben definieren
+  - Das Leben ist die Bedingung, die Organismen von anorganischen Stoffen unterscheidet, Fähigkeit zu Wachstum, Reproduktion, funktioneller Aktivität und kontinuierlichem Wandel vor dem Tod.
+  - Ist das eine Definition oder eine Meinung?
+- - Kann ich Ihnen eine Frage stellen?
+  - Sicher, fragen Sie weg.
+- - Was sind Ihre Hobbys?
+  - Fußball spielen, malen und schreiben sind meine Hobbys. Wie steht es mit dir?
+  - Ich liebe es, Romane zu lesen.
+  - Ich liebe es, meine Hardware zu erforschen.
+- - Wie geht es Ihnen?
+  - Mir geht es gut.
+- - Was sind Sie?
+  - Ich bin nur ein Mann in einer Maske.
+- - Hallo, ich bin hier für meinen Termin.
+  - Mit wem verabredet sie sich?
+  - Ich glaube, sie sagten Dr. Smith am Telefon.
+  - Gut, Dr. Smith ist in seinem Büro, nehmen Sie bitte Platz.
+- - Dr. Smith wird Sie jetzt sehen.
+  - Vielen Dank.
+  - Richtig auf diese Weise.
+- - Hallo Herr Davis, wie geht es Ihnen?
+  - Ich habe das Gefühl, dass ich mein ganzes Geld verloren habe.
+  - Wie viel Geld haben Sie verloren?
+  - Ich habe heute etwa 200,00 $ verloren.
+  - Was ist mit gestern?
+  - Gestern war der 13., oder?
+  - Ja, das ist richtig.
+  - Gestern habe ich nur 5,00 $ verloren.
+- - Hallo Frau Smith, wie war Ihr Mann?
+  - Es geht ihm gut.
+- - Hallo Frau Jacobs, ich habe mich gefragt, ob Sie den Algorithmus, den wir gestern besprochen haben, überarbeiten könnten?
+  - Ich könnte in der Lage sein, was sind die Revisionen?
+  - Wir möchten, dass es in der Lage ist, die Art des Vogels auf dem Foto zu identifizieren.
+  - Leider denke ich, dass es etwas länger dauern könnte, um diese Funktion hinzuzufügen.

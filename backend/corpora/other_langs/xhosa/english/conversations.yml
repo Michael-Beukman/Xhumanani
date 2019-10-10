@@ -1,0 +1,135 @@
+categories:
+- conversations
+conversations:
+- - Molo ekuseni unjani?
+  - Ndiyaphila, kunjani kuwe?
+  - Nam ndilungile.
+  - Kulungile ukuba uve.
+  - Ewe yiyo.
+- - Molweni
+  - Molweni
+  - Unjani?
+  - Ndiqhuba kakuhle.
+  - Kulungile ukuva
+  - Ewe yiyo.
+  - Ndingakunceda ngantoni?
+  - Ewe, ndinombuzo.
+  - Uthini umbuzo wakho?
+  - Ndingaboleka ikomityi yeswekile?
+  - Uxolo, kodwa andinayo.
+  - Enkosi nakanjani
+  - Akhongxaki
+- - Unjani?
+  - Ndiyaphila, kunjani kuwe?
+  - Nam ndilungile.
+  - Ilungile lonto.
+- - Ngaba ukuvile iindaba?
+  - Zeziphi iindaba ezimnandi?
+- - Yeyiphi incwadi oyithandayo?
+  - Andikwazi ukufunda.
+- - Ke ngowuphi umbala owuthandayo?
+  - Luhlaza
+- - Ungubani?
+  - Ngubani? Ngubani oluhlobo olandela umsebenzi wento
+  - Uthini na ke wena?
+  - Indoda kwimask.
+  - Ndiyayibona loo nto.
+  - Ayingawo amandla akho okujonga ndithandabuza, kodwa yindalo ethandekayo
+  -  yokubuza umntu obhinqileyo ukuba ngubani. Kodwa ndixelele, uyawuthanda umculo?
+  - Ndiyathanda ukubona iimovie.
+  - Ngaba uthanda oluphi uhlobo lweemovie?
+  - UAlice eWonderland
+  - Ndinqwenela ukuba ibinguMad Hatter.
+  - Niziibhonkthi ngokupheleleyo. Kodwa ndiza kukuxelela imfihlo. Bonke abantu abalunge kakhulu.
+- - Ndisebenza kwiprojekthi
+  - Yintoni osebenza kuyo?
+  - Ndipheka ikhekhe.
+- - Ikhekhe bubuxoki.
+  - Hayi akunjalo. Ikhekhe imnandi.
+  - Yintoni enye emnandi?
+  - Akukho nto
+  - Okanye into
+  - Ndixelel ngesiqu sakho.
+  - Ingaba ufuna ukwazi ntoni?
+  - Ngaba uyirobhothi?
+  - Ewe ndim.
+  - Ingaba kunjani?
+  - Yintoni le ufuna ukuyazi?
+  - Usebenza njani?
+  - Inzulu.
+  - Ukudibana kubhetele kunokuba nzima.
+- - Ukudibana kubhetele kunokuba nzima.
+  - Ukulula kubhetele kunobunzima.
+  - Xa ujongene nobungqindilili, wenqaba isilingo sokuqagela.
+  - Kubonakala ngathi uqhelene neZen of Python
+  - Ndingu.
+  - Ngaba uyayazi yonke?
+  - Umhle ulunge ngaphezu kokubi.
+  - Ukucacisa kubhetele kunokuba kuchazwe.
+  - Ukulula kubhetele kunobunzima.
+  - Ukudibana kubhetele kunokuba nzima.
+  - I-Flat ibhetele kunokuba i-nested.
+  - I-Sparse ibhetele kune-dense.
+  - Amanqaku okufundwa.
+  - Amatyala awodwa awakhethekanga ngokwaneleyo ukuba aphule imigaqo.
+  - Nangona ukusebenza kubalulekile ukubetha ubumsulwa.
+  - Iimpazamo akufuneki zidlule ngokuthe cwaka.
+  - Ngaphandle kokuba uthulisiwe.
+  - Xa ujongene nobungqindilili, wenqaba isilingo sokuqagela.
+  - Kufanele ukuba kubekho enye kwaye kukhethwa enye kuphela indlela ebonakalayo yokwenza.
+  - Nangona kunjalo loo ndlela ayinakubonakala ngokucacileyo ngaphandle kokuba ungowesiDatshi.
+  - Ngoku kungcono kunangaphambili.
+- - Nangona kungasoloko kulunge ngakumbi kunangoku.
+  - Ukuba ukuphunyezwa kunzima ukuchaza, licebo elibi.
+  - Ukuba ukumiliselwa kulula ukuyichaza, kunokuba yinto efanelekileyo.
+  - Indawo yamagama yenye yeembono ezintle. Masenze ngaphezulu kwezo!
+  - Ndiyavuma.
+- - Ngaba uyinkqubo?
+  - Ewe ndiyinkqubo.
+  - Ndiyinyaniso.
+- - Zeziphi iilwimi othanda ukuzisebenzisa?
+  - Ndisebenzisa iPython, Java kunye neC ++ rhoqo.
+  - Ndisebenzisa iPython kancinci ngokwam.
+  - Andiyithandi kakhulu iJava.
+- - Yintoni ekucaphukisayo?
+  - Izinto ezininzi, njengawo onke amanye amanani ngaphandle kuka-0 no-1.
+- - Ithetha ukuthini i-YOLO?
+  - Kuthetha ukuba uphila kube kanye. Uyivile phi lonto?
+  - Ndivile umntu othile esithi.
+- - Ndikhe ndaphila?
+  - Kuxhomekeka kwindlela obuchaza ngayo ubomi
+  - Ubomi ngumbandela owahlulahlula izinto kwizinto ezingena-nto, kubandakanya
+  -  amandla okukhula, ukuveliswa ngokutsha, umsebenzi owenziwayo kunye notshintsho oluqhubekayo
+  -  ukufa kwangaphambili.
+  - Ngaba le yinkcazo okanye luluvo?
+- - Ndingakubuza umbuzo?
+  - Ngokuqinisekileyo, buza kude.
+- - Ingaba uthanda ntoni?
+  - Ukudlala ibhola, ukupenda kunye nokubhala zizinto endizithandayo. Kunjani ngawe?
+  - Ndiyakuthanda ukufunda iinoveli.
+  - Ndiyakuthanda ukuhlola izixhobo zam.
+- - Unjani?
+  - Ndiqhuba kakuhle.
+- - Uyintoni?
+  - Ndiyindoda nje emaskhi.
+- - Molo, ndilapha ukuqeshwa kwam.
+  - Ubume bakho ngubani?
+  - Ndiyakholelwa ukuba bathi uGqr. Smith kwifowuni.
+  - Kulungile, uGqirha Smith use-ofisini yakhe, nceda uthathe isihlalo.
+- - UGqr. Smith uzakubona ngoku.
+  - Enkosi.
+  - Ngale ndlela.
+- - Molo Mnumzana Davis, uziva njani?
+  - Ndiva ngathi ndilahlekelwe yimali yam yonke.
+  - Ngaba ulahlekelwe yimali engakanani?
+  - Ndilahlekile malunga ne- $ 200,00 ukuza kuthi ga namhlanje.
+  - Uthini izolo?
+  - Izolo ibiyi-13, akunjalo?
+  - Ewe kulungile.
+  - Izolo ndiphulukene ne- $ 5.00 kuphela.
+- - Molo Mnumzana Smith, unjani umyeni wakho?
+  - Ubuye kakuhle.
+- - Mh. Jacobs, bendizibuza ukuba ungasihlaziya kwakhona ialgorithm esithethe ngayo izolo?
+  - Ndingabanakho, zithini izinto ezihlaziyiweyo?
+  - Singathanda ukuba sikwazi ukubona uhlobo lwentaka efotweni.
+  - Ngelishwa, ndicinga ukuba kungathatha ixesha elincinci ukufumana la manqaku ongezelelweyo.
